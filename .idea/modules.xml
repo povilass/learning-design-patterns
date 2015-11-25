@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" filepath="$PROJECT_DIR$/adapter-pattern/adapter-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/command-pattern/command-pattern.iml" filepath="$PROJECT_DIR$/command-pattern/command-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite-pattern/composite-pattern.iml" filepath="$PROJECT_DIR$/composite-pattern/composite-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-observer-pattern/custom-observer-pattern.iml" filepath="$PROJECT_DIR$/custom-observer-pattern/custom-observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" filepath="$PROJECT_DIR$/decorator-pattern/decorator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade-pattern/facade-pattern.iml" filepath="$PROJECT_DIR$/facade-pattern/facade-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory-pattern/factory-pattern.iml" filepath="$PROJECT_DIR$/factory-pattern/factory-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/head-design-patterns.iml" filepath="$PROJECT_DIR$/head-design-patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" filepath="$PROJECT_DIR$/iterator-pattern/iterator-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-observer-pattern/java-observer-pattern.iml" filepath="$PROJECT_DIR$/java-observer-pattern/java-observer-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-pattern/src/main/main.iml" filepath="$PROJECT_DIR$/strategy-pattern/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator-pattern/src/main/main1.iml" filepath="$PROJECT_DIR$/decorator-pattern/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory-pattern/src/main/main2.iml" filepath="$PROJECT_DIR$/factory-pattern/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/custom-observer-pattern/src/main/main3.iml" filepath="$PROJECT_DIR$/custom-observer-pattern/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-observer-pattern/src/main/main4.iml" filepath="$PROJECT_DIR$/java-observer-pattern/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" filepath="$PROJECT_DIR$/proxy-pattern/proxy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state-pattern/state-pattern.iml" filepath="$PROJECT_DIR$/state-pattern/state-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" filepath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template-method-pattern/template-method-pattern.iml" filepath="$PROJECT_DIR$/template-method-pattern/template-method-pattern.iml" />
+    </modules>
+  </component>
+</project>
